@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: rgb(17, 17, 17)010;
+    background-color: rgb(33, 33, 33)010;
     color: #fff;
     padding: 1em;
     text-align: center;
@@ -20,4 +20,8 @@ h1,
 h2,
 h3 {
     color: #333;
+}
+
+h1.Name {
+    color: #fff;
 }
